@@ -18,6 +18,8 @@ Smart contracts able to interact with Kleros and standard proposals.
 
 ## Getting Started
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/kleros-interaction.svg)](https://www.staging.guardrails.io)
+
 ### Setting Up The Environment
 
 Install [Truffle Suite](https://truffleframework.com/) and [Ganache](https://truffleframework.com/ganache)
